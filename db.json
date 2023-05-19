@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "account": "어카운트 명",
+        "stage": [ 
+            { "label": "운영", "value": "운영" },
+            { "label": "스테이징", "value": "스테이징" },
+            { "label": "개발", "value": "개발" },
+            { "label": "기타", "value": "기타" },
+        ],
+        "stageDesc": "stageDesc 이 들어갑니다",
+        "service": "서비스 명",
+        "team": "팀 명",
+        "manager": "홍길동",
+        "manager2": "홍길남",
+        "role": "Y"
+    },
+    {
+        "id": "2",
+        "account": "어카운트 명",
+        "stage": [ 
+            { "label": "운영", "value": "운영" },
+            { "label": "스테이징", "value": "스테이징" },
+            { "label": "개발", "value": "개발" },
+            { "label": "기타", "value": "기타" },
+        ],
+        "stageDesc": "stageDesc 이 들어갑니다",
+        "service": "서비스 명",
+        "team": "팀 명",
+        "manager": "홍길동",
+        "manager2": "홍길남",
+        "role": "Y"
+    },    
+]
